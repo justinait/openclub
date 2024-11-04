@@ -1,5 +1,5 @@
 import React from 'react'
-import '/Agency.css'
+import './Agency.css'
 
 function Agency() {
   return (
