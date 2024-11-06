@@ -1,0 +1,5 @@
+.accommodationsContainer {
+    height: 100vh;
+    background-image: url('../../assets/alojamientoshero.jpg');
+    background-size: cover;
+}

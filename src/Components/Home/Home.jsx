@@ -42,7 +42,7 @@ function Home() {
         {
           home.map(e=> (
             <div>
-              <img src={e.image} alt="" />
+              <img src={e.image} alt="" width={100}/>
               <p>{e.name}</p>
               <p>{e.description}</p>
             </div>
