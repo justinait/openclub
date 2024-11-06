@@ -1,0 +1,8 @@
+.homeContainer {
+    height: 100vh;
+    background-image: url('../../assets/hero.jpg');
+    background-size: cover;
+}
+.logoHero {
+    width: 60%;
+}
