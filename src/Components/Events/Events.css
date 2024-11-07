@@ -1,0 +1,5 @@
+.eventsContainer {
+    height: 100vh;
+    background-image: url('../../assets/eventshero.jpg');
+    background-size: cover;
+}

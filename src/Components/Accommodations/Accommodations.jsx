@@ -36,8 +36,7 @@ function Accommodations() {
 
   return (
     <div>
-      <div className='accommodationsContainer'>
-      </div>
+      <div className='accommodationsContainer'></div>
 
       <div>
         {
