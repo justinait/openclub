@@ -1,0 +1,5 @@
+.seasonContainer {
+    height: 100vh;
+    background-image: url('../../assets/seasonhero.jpg');
+    background-size: cover;
+}
