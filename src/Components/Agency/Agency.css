@@ -1,0 +1,5 @@
+.agencyContainer{
+    height: 100vh;
+    background-image: url('../../assets/agencyhero.png');
+    background-size: cover;
+}
